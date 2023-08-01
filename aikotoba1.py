@@ -5,8 +5,8 @@ import traceback
 
 
 TOKEN = 'DISCORD_TOKEN'
-GUILD_ID = int(os.getenv("DISCORD_GUILD_ID"))
-ROLE_ID = int(os.getenv("DISCORD_ROLE_ID"))
+GUILD_ID = int("DISCORD_GUILD_ID")
+ROLE_ID = int("DISCORD_ROLE_ID")
 WORD = 'AIKOTOBA'
 
 
