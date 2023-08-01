@@ -7,7 +7,7 @@ import traceback
 TOKEN = 'DISCORD_TOKEN'
 GUILD_ID = int(os.getenv("DISCORD_GUILD_ID"))
 ROLE_ID = int(os.getenv("DISCORD_ROLE_ID"))
-WORD = 'もっこりす六三三二'
+WORD = 'AIKOTOBA'
 
 
 intents = discord.Intents.default()
